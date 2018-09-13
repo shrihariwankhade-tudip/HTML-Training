@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Assignment</title>
+<link rel="stylesheet" href="/home/lt-126/Desktop/HTMl/CSS documents/styles.css">
+<head>
+
+<body>
+<img src="/home/lt-126/Desktop/HTMl/Images/tudip.png" alt="Tudip" width="100px" height="50px">
+
+<h2 id="my">Assignment</h2>
+
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#contact">Contact</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#address">Address</a></li>
+</ul>
+<br>
+
+<h3 class="heading">Tudip Technology</h3>
+
+<p><cite>Tudip</cite> started in 2010.</p>
+<span style="color:red">Tudip</span> 
+<span>Technologies</span> 
+<span>is</span> 
+<span>customer</span> 
+<span>focused</span>, 
+<span>extreme</span> technology IT services company, that helps clients achieve Serenity through Integrity and Innovation [<abbr title="Integrity Innovation Serenity">INS</abbr>].<br>
+
+<hr></hr>
+<div>Life is Like</div>
+<div>riding a bicycle</div>
+<div>To Keep Your</div>
+<div>Balance</div>
+<div>You must keep</div>
+<div>moving</div>
+
+<hr></hr>
+
+<div style="background-color:black;color:orange">
+<p>The &ltdiv&gt element is often used as a container for other HTML elements.</p>
+<p>The &ltdiv&gt element has no required attributes, but style, class and id are common.</p>
+<p>When used together with CSS, the &ltdiv&gt element can be used to style blocks of content.</p>
+</div>
+<hr></hr>
+<div class="special">
+ Now, we have an awesome looking border. We set the width and text alignment of the class really quick, but then we got into border properties. The border-width is somewhat tricky. I set it to medium just so you would scratch your head. It can actually be set to real quantifiable measures like 5px. It’s always good to know you can use the thin, medium, and thick though. Next, border-color doesn’t really elicit an explanation, but border-style certainly does. We have it set to outset here, which happened to be my favorite before CSS3 shadows. It can apply a few different styles like dashed, solid, outset, inset, etc. Finally, border-radius takes a measurement to determine how much to bend at each corner.
+</div>
+<hr></hr>
+
+<h3 class="heading">Table</h3>
+
+<table class="special">
+<caption class="heading">Information</caption>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+</tr>
+<tr>
+<td>Shrihari</td>
+<td>Wankhade</th>
+</tr>
+<tr>
+<td>Hari</td>
+<td>Wankhade</th>
+</tr>
+<tr>
+<td>Shri</td>
+<td>Wankhade</th>
+</tr>
+<tr>
+<td>Shri</td>
+<td>hari</th>
+</tr>
+
+</table>
+
+<hr></hr>
+
+<h4 id="about">About</h4>
+
+<hr></hr>
+<address id="address">
+<h4 class="heading">Address</h4>
+Sr. No. 241/3/A,<br>
+Datta Mandir Road,<br>
+Wakad,<br>
+Pune,<br>
+Maharashtra 411057
+</address>
+</body>
+</html>
+
